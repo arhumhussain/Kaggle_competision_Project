@@ -13,33 +13,6 @@ Competition Link:
 Kaggle: Advanced House Price Prediction
 
 
-📁 Project Structure
-
-bash
-Copy code
-├── data/                   # Raw and processed data files
-│   ├── train.csv           # Training data
-│   ├── test.csv            # Test data
-│   └── submission.csv      # Example submission file
-│
-├── notebooks/              # Jupyter notebooks
-│   ├── EDA.ipynb           # Exploratory Data Analysis (EDA)
-│   ├── Model_Building.ipynb # Model building and training
-│   └── Feature_Engineering.ipynb # Feature engineering and selection
-│
-├── models/                 # Trained models
-│   ├── final_model.pkl     # Final model saved as pickle
-│
-├── src/                    # Source code
-│   ├── data_processing.py  # Data cleaning and preprocessing scripts
-│   ├── model.py            # Model training scripts
-│   └── utils.py            # Utility functions
-│
-├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies
-└── submission.csv          # Final submission for Kaggle
-
-
 🔍 Exploratory Data Analysis (EDA)
 
 
